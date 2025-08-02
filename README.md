@@ -21,8 +21,6 @@ The labs are organized into directories by topic:
 | `overlays/` | CML overlays used in specific labs        |
 | `templates/` | Starting point topologies or node configs|
 
-Each lab file is in `.virl2` format and can be opened directly in Cisco Modeling Labs.
-
 ---
 
 ## 🛠️ How to Use with CML
